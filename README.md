@@ -1,7 +1,7 @@
 # Idea 3 of Chaoss from GSOC 2019
 I have already completed all the micro-tasks for "[GSoC Idea: Support of Source Code Related Metrics](https://github.com/chaoss/grimoirelab/issues/182)". 
 
-**List of the nine micro-tasks I've completed:**
+**List of the ten micro-tasks I've completed:**
 * [Microtask 0](https://github.com/SunflowerPKU/GSoC-Support-of-Source-Code-Related-Metrics/blob/master/Microtask%200.md)
 * [Microtask 1](https://github.com/SunflowerPKU/GSoC-Support-of-Source-Code-Related-Metrics/blob/master/Microtask%201.md)
 * [Microtask 2](https://github.com/SunflowerPKU/GSoC-Support-of-Source-Code-Related-Metrics/blob/master/Microtask%202/Microtask%202.md)
