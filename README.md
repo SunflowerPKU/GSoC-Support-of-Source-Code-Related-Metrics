@@ -12,3 +12,5 @@ I have already completed all the micro-tasks for "[GSoC Idea: Support of Source 
 * [Microtask 7](https://github.com/SunflowerPKU/GSoC-Support-of-Source-Code-Related-Metrics/blob/master/Microtask%207.md)
 * [Microtask 8](https://github.com/SunflowerPKU/GSoC-Support-of-Source-Code-Related-Metrics/blob/master/Microtask%208/Microtask%208.md)
 * [Microtask 9](https://github.com/SunflowerPKU/GSoC-Support-of-Source-Code-Related-Metrics/blob/master/Microtask%209.md)
+
+*Because I registered a new GitHub account [LuckLittleBird](https://github.com/LuckyLittleBird) some time ago, which casued my local computer to be bound to this new account [LuckLittleBird](https://github.com/LuckyLittleBird), there were two contributors. In fact, all the contributions come from me alone.*
